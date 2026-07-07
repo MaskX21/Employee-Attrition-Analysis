@@ -8,6 +8,14 @@ The project also includes an interactive Power BI dashboard to help HR teams mak
 
 ---
 
+### 📈 Model Performance
+
+| Model               | Accuracy     |
+| ------------------- | ------------ |
+| Logistic Regression | **89.47%**   |
+| Random Forest       | **88.10%** ⭐ |
+
+
 ## 🎯 Objectives
 
 * Analyze employee attrition patterns.
@@ -70,17 +78,6 @@ Two classification models were used:
 
 * Logistic Regression
 * Random Forest Classifier
-
-### 📈 Model Performance
-
-| Model               | Accuracy     |
-| ------------------- | ------------ |
-| Logistic Regression | **89.47%**   |
-| Random Forest       | **88.10%** ⭐ |
-
-> Replace the above values with your actual model accuracy.
-
----
 
 ## 📌 Key Insights
 
